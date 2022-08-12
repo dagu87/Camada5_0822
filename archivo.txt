@@ -1,0 +1,5 @@
+a. Linus Torvalds, se creó para ser capaz de mantener una gran cantidad 
+de código distribuido, y para trabajar con equipos de forma rápida y 
+sencilla. b. Microsoft, porque desean enfocarse todo lo posible al 
+desarrollo.
+c. sí, a través de la apliación de GitHub, GitHub Desktop.
