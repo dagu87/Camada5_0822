@@ -1,0 +1,8 @@
+1. ¿Quien invento el sistema de versión Git y por qué?
+Origianalmente lo desarrolló el Linus Torvalds en 2005. Linus Torvalds buscaba un sistema distribuido que pudiera usar en forma semejante a BitKeeper, pero ninguno de los sistemas bajo software libre disponibles cumplía con sus requerimientos, especialmente en cuanto a desempeño.
+El diseño de Git mantiene una enorme cantidad de código distribuida y gestionada por mucha gente, que incide en numerosos detalles de rendimiento, y de la necesidad de rapidez en una primera implementación.
+2. ¿Aquién le pertenece actualmente GitHub y por qué?
+Microsoft compró GitHub en el 2018 por la  inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más. Con ello en mente, ponen en relevancia las necesidades de los desarrolladores y el interés por parte de la compañía de mantener las cosas en apariencia igual que hasta el momento en su plataforma recién adquirida.
+3. ¿Hay otra forma que no sea la terminal para trabajar con GitHub?
+Sí, con GitHub Desktop se extiende y simplifica tu flujo de trabajo GitHub.com, usando una interfaz visual en lugar de comandos de texto en la línea de comandos.
+
