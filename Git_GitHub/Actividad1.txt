@@ -1,0 +1,4 @@
+1. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+2.  Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+3. Existen muchas formas de usar Git. ... Nosotros esperamos que sepas cómo abrir el Terminal en Mac, o el "Command Prompt" o "Powershell" en Windows.
+
