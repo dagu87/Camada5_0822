@@ -1,0 +1,4 @@
+a. Fue inventado por Linus Torvalds. Creó la herramienta buscando desarrollar un sistema de control de versiones semejante a Bitkeeper
+b. Pertenece a Microsoft quien compró la compañia en 2018 porque es una plataforma clave la comunidad de desarrolladores 
+c. Por medio un programa de GitHub el cual se descarga en el computador. 
+
