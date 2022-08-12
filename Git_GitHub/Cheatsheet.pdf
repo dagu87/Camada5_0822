@@ -1,0 +1,28 @@
+Comandos para crear 
+Carpetas mkdir 
+Archivos touch
+
+Crear en GIT
+Repositorio local Git init
+Clonar repositorio git clone urldelrepo
+Crear una rama git branch nombrederama
+Crear un commit git commit -m nombredelamodificacion
+
+
+Configuraciones 
+cofigurar el nombre de usuario git config -- global
+user.name nombre de user
+configurar el email de usuario git config --global
+user.email elemaildelacuenta
+
+Agregar
+agregar una carpeta git add carpeta
+agregar todo git add .
+
+Ingregar 
+Para entrar a una rama git checkout nombredelarama
+para entrar a editar un archivo nano nombrearchivo
+
+ 
+Revertir
+Para revertir los ultimos cambios git revert 
