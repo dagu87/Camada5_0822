@@ -1,0 +1,3 @@
+*quien lo creo fue  Linus Torvalds,
+*pensando en la eficiencia, la confiabilidad y compatibilidad 
+del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
