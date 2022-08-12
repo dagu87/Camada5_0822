@@ -1,0 +1,4 @@
+1. El sistema fue creado por  Linus Torvalds, debido a que la relacion entre  kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta usada en ese entonces dejó de ser ofrecida de manera gratuita, asi que linux desarrollo su propia herramienta.
+2. Pertenece a Microsoft ya que al ser el mayor repositoriode codigo del mundo es clave para acercarse a esa comunidad.
+3. se podria trabajar desde el escritorio
+ 
