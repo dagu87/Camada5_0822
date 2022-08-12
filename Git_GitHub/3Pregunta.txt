@@ -1,0 +1,2 @@
+3 ¿Hay otra forma que no sea la terminal para trabajar con Github?
+R/Sí, directamente desde la plataforma de GitHub, ya que posee herramientas para crear, ediatr subir archivos etc.
