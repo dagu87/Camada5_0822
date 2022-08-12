@@ -1,0 +1,11 @@
+Actividad 1
+
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+    rta. El sistema de control de versiones fue creado por Linus Torvalds. El proyecto más importante del mundo de código abierto es Linux. Creado por Linus Torvalds.
+    Así que decidió crear desde cero su propio sistema de control de versiones con ramas y lo llamó Git. Git es un sistema distinto a los anteriores porque las personas pueden hacer uso de ramas. Puedes tener tres ramas diferentes, con nombres diferentes, donde puedes estar haciendo cambios diferentes a un mismo archivo y donde diferentes personas pueden estar trabajando en cosas diferentes. Luego puedes fusionar todos esos cambios y mandarlos a producción en una sola rama que puede ser la rama master.
+b. ¿A quién pertenece actualmente Github y por qué?
+    rta. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+    Lo compran ya que es el mayor repositorio de código del mundo es punto de encuentro para millones de desarrolladores, y esa es precisamente la clave. Con el control de GitHub, Microsoft se hace también con la comunidad de desarrollo más nutrida del planeta.
+    De igual manera desde mayo de 2017 Microsoft anunciaba que todo el código de Windows ya se gestionaba a través de Git, lo que apuntalaba la confianza de Microsoft en este tipo de tecnología Open Source desarrollada Linus Torvalds en 2005.
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+    rta. Desde el propio GitHub y GitHub desktop
