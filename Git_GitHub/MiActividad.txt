@@ -1,0 +1,4 @@
+a) Linus Torvalds. la creó debido a Linux tenía un gestor de paquetes (BitKeeper) que pasó a ser de pago, por lo que el desarrollador principal de Linux decidió crear un nuevo gestor de control de versiones para su sistema,y que diera soporte a su core.
+
+b) Git Hub pertenece a Windows. Es una decisión estratégica para enfocarse en todo lo posible al desarrollo.
+c) Si. Por medio de Git Hub desktop	
