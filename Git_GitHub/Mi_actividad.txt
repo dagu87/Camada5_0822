@@ -1,0 +1,3 @@
+1. Lo invento Linus Torvalds.  Se creo para  crear un nuevo gestor de control de versiones para su sistema, y que diera soporte a su core.
+2. Pertenece a Microsoft. para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores.
+3.Si. Con git hub setup.
