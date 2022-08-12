@@ -1,0 +1,4 @@
+Git es un proyecto de codigo abierto maduro y con un mantenimiento activo que  que desarrollo originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+Linux tenia un gestor de paquetes que paso a ser de pago, por lo que el desarrollador principal de Linux decidio crear un nuevo gestor de control de versiones para su sistema, y que diera soporte a su core. De esta forma nacio Git.
+Github pertenece a Microsoft quien lo compro por 7500 millones de dolares. para enfocarse todo lo posible al desarrollo .
+No hay otra forma de trabajar con Github que no sea por medio de la terminal.
