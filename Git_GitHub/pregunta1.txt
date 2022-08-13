@@ -1,0 +1,2 @@
+¿Quien inventó el sistema de control de versión Git y por qué? 
+Desarrollado por Linus Torvalds, pensado en la eficiencia, la confiabilidad y la compatibilidad del mantenimiento de versiones aplicadas cuando se tiene un gran número de archivos de código fuente. El proposito es llevar un registro de los cambios de archivos en la computadora incluyendo la coordinación de trabajo de varias personas realizacan sobre los archivos compartidos. 

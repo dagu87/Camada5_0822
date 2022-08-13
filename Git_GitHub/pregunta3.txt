@@ -1,0 +1,2 @@
+¿Hay otra forma que no sea la terminal para trabajar con GitHub? 
+Si, ser puede trabajar desde la misma plataforma de Github, pues da la opción de crear, subir y editar archivos.  

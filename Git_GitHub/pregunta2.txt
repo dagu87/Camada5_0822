@@ -1,0 +1,2 @@
+¿A quién pertenece el sistema actualmente a Github y por qué?
+Le pertencen actualmente a Microsoft desde el 2018, esto debido a que es un punto de encuentro para los desarrolladores siendo la plataforma más importante de colaboración para proyectos de código abierto. 
