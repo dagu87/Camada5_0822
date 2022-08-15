@@ -1,0 +1,4 @@
+1. En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper.
+2. Las razones son basicamente dos, la primera para tener un acercamiento a la comunidad más vibrante en el desarrollo de software libre y abierto. La segunda Microsoft tiene que competir con el líder indiscutible a día de hoy, la todopoderosa Amazon con AWS. Qué mejor forma de hacerlo que estar en contacto directo con los desarrolladores que trabajan en esos servicios, ver sus necesidades y ofrecerles herramientas que faciliten su integración con Azure
+3. Por lo aprendido hasta el dia de hoy y la investigacion que pude hacer al momento, NO hay otra forma
+
