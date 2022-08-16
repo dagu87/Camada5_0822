@@ -1,0 +1,4 @@
+1. Git es un software de control de versiones diseñado por Linus Torvalds. Se creo para poder llevar un registro de los cambios
+en los archivos de una computadora incluyendo los cambios realizados por diferentes personas compartidos en un respositorio comun. 
+2. GitHub pertenece hoy en dia a Microsoft ya que en 2018 la compro por una cantidad de 7000 millones de dolares. 
+3. Si, se puede de hecho crear nuevos respositorios con sus carpetas y archivos correspondientes por medio de la aplicacion de Github. 
