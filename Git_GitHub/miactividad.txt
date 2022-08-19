@@ -1,0 +1,5 @@
+1. El sistema de control de versiones de Git fue creado por Linus Torvals al no estra satisfecho con el cambio de licencia de BitKeeper
+2. Actualmente Github  pertenece a Microsoft, fue vendedido en el 2018 por un monto de 7500 millones y se enfocó en el desarrollo colaborativo, poniendo importacia en la necesidades de los desarrolladores
+3. Si, existen otras eherramientas, un ejemplo puede ser GitKraken
+
+ 
