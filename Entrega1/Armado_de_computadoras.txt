@@ -1,0 +1,63 @@
+GAMA BAJA
+
+INTEL
+Procesador: Core i3 7100
+Placa madre: ASUS H110M-E D3
+Memoria principal: Memoria Ram OEM 4GB 3200Mhz DDR4 Bulk
+Memoria secundaria: Disco solido SSD 128GB patriot P210 SATA III
+
+AMD
+Procesador: Ryzen 3 2200g
+Placa madre: Gigabyte B450M DS3H
+Memoria principal: Memoria Ram Crucial BASICS 4GB 2666Mhz DDR4
+Memoria secundaria: Disco solido SDD 128GB Netac N535S 2.5 SATA III
+
+LIBRE
+Procesador: Celeron G5905
+Placa madre: Asus prime B460M-A R2.0
+Memoria principal: Memoria Ram patriot signature Line 2666Mhz DDR4
+Memoria secundaria: Disco Solido SSD 256GB SuperTalent Teradrive SATA III
+
+GAMA MEDIA
+
+INTEL
+Procesador: Core i5 10400F 
+Placa madre: MSI H410M B Pro
+Memoria principal: Memoria Ram PNY performance 8GB 2666Mhz DDR4
+Memoria secundaria: Disco Solido SSD 512GB PAtrior P210 SATA III
+GPU:GeForce GT 1030 2GD4 LP OC
+
+AMD
+Procesador: AMD Ryzen 3 4350G Pro
+Placa madre: A320m Asrock
+Memoria principal: Memoria Ram patriot signature Line 8GB 2666Mhz DDR4
+Memoria secundaria: Disco Solido SSD 480GB Markvision SATA III BULK
+
+LIBRE
+Procesador: Core i5-11600k
+Placa madre: Gigabyte H510M H
+Memoria principal: Memoria Ram OEM 8GB 3200Mhz DDR4 BULK
+Memoria secundaria: Disco Solido SSD 480GB Wetern digital green SATA III
+
+GAMA ALTA
+
+INTEL
+Procesador: Core i7-10700
+Placa madre: ASUS PRIME Z590-A
+Memoria principal: Memoria Ram Crucial BASICS 16GB 2666Mhz DDR4
+Memoria secundaria: Disco solido SSD 960BG Markvision SATA III BULK
+
+AMD
+Procesador: Amd Ryzen 7 3800xt
+Placa madre: Gigabyte X570S Gaming X 
+Memoria principal: Memoria Ram Adata XPG GAMMIX D30 16BG 3200Mhz DDR4
+Memoria secundaria: Disco solido SSD 1TB Kingston NV1 M.2 NVMe PCle 3.0
+
+LIBRE
+Procesador: Core i9-12900F
+Placa madre: Gigabyte Z690 AORUS ULTRA 
+Memoria principal: Memoria Ram Kingston Fury Beast 16GB 4800Mhz DDR5
+Memoria secundaria: Disco solido SSD 2TB Gigabyte aorus raid M.2 NVMe PCle x8 3.0
+
+
+
