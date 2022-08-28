@@ -1,0 +1,12 @@
+Quien inveto el sistema de control de versin git y por que?
+    R:// Git fue credo por Linus Torvals hace 15 aos como parte del desarrollo de Linux Kernel ya que 
+no podian continuar con BitKeeper porque no alcanzaba para cumplir con lo que ellos necesitaban 
+
+A quien pertenece actualmento GitHub y por qu? 
+    R:// Microsoft adquiriro Github en el 2018 por 7.5 billones de dolares. Esta compra le permitio a 
+Microsoft acceder a informacin valiosa y un poder giante enel mundo del desarrollo de software
+
+hay otra forma para trabajar con GitHub que no sea la terminal?
+    R://Es posible pero resulta un proceso complicado y poco eficiente ya que implica descrgar la app 
+de github que de igual forma no permite hacer uso d tods las herramientas. 
+
