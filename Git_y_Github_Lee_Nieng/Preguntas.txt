@@ -1,0 +1,11 @@
+a. Fue creado por linus torvals, el mismo personaje que contribuyo al desarrollo del sistema operativo Linux
+   la idea de crear el sistema de creaciòn de versiones fue porque los grandes desarrollos de programaciòn
+   requiere de una buena comunicaciòn y agil entre el equipo para corregir y actualizar rapidamente
+   las nuevas actualizaciones
+b. Es de Microsoft, quieren tener una modalidad semi-libre de software parcialmente libre para la comunidad
+   de programadores, quieren ser una compañia que tambien aportan al libre desarrollo de los procesos intelectuales
+   de la comunidad de programadores
+c. GitHub puede trabajarse sin la terminal, pero es muy engorroso tener que descargar o actualizar archivos
+   de la plataforma subiendo y bajando cada vez que haya un nuevo cambio, con la terminal solo se escriben
+   los comandos y se tiene la informaciòn de inmediato, sea para subir o bajar archivos desde la plataforma
+   de github. 
