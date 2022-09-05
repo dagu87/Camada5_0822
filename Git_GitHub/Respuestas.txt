@@ -1,7 +1,0 @@
-¿Quién inventó el sistema de control de versión Git y por qué?
-Lo creo Linus Torvalds con la finalidad de guardar las diferentes versiones de un archivo con el fin de recuperar a�lguna version cuando se quisiese
-¿Quién inventó el sistema de control de versión Git y por qué?
-Pertenece a Microsoft GitHub Inc. con la finalidad de poder enfocarse en el desarrollo
-c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
-si, desde github setup
-
