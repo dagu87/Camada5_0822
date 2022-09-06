@@ -1,0 +1,5 @@
+1. El Lenguaje de programacion puede usarse en un SO siempre y cuando haya un interprete o compilador. 
+Si no esta el interprete o compilador no se puede usar ese lenguaje en el SO.
+2. VirtualBox es una maquina virtual de sistema. Puede ejecutar su propio SO y multiples aplicaciones en el. 
+3. Las maquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma apliacacion de forma separada. De ese modo, si una de ellas falla, no afectara el funcionamiento del resto. 
+
