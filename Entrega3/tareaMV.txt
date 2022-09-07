@@ -1,0 +1,1 @@
+1)Porque depende de la arquitectura del procesador y la interpretación que le dé el sistema operativo. 2) Es una maquina virtual que permite crear maquinas virtuales dentro de ella, es un software de virtualización. 3) No afectaría a las demás ya que cada una es independiente y tiene su propia instalación y configuración por aparte.
