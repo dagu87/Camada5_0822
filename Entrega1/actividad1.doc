@@ -6,53 +6,55 @@ Memoria Secundaria: SSD SATA 240GB
 
 Computadora Gama Baja - AMD
 Procesador: AMD Ryzen 3 2200G
-Placa Madre:
-Memoria Ram:
-Memoria Secundaria: 
+Placa Madre:Gigabyte B450MDS3H
+Memoria Ram:DDR4 8GB 2933 MHz
+Memoria Secundaria: SSD SATA256GB
 
 Computadora Gama Baja - Estudiante
-Procesador: 
-Placa Madre: 
-Memoria Ram: 
-Memoria Secundaria: 
+Procesador: AMD Ryzen 3 3200G
+Placa Madre: MSI MPG Gaming Pro Carbon Max WIFI
+Memoria Ram: Dual Channel 8 GB
+Memoria Secundaria: SSD SATA256GB
 
 
 Computadora Gama Media - Intel 
-Procesador: 
-Placa Madre:
-Memoria Ram: 
-Memoria Secundaria:
+Procesador: i5 - 114000F 4.4Ghz 12Mb
+Placa Madre:Asus PRIME B460M-A R2.0
+Memoria Ram: DDR4 crucial 8GB
+Memoria Secundaria:SSD 480GB SATA III
 GPU: GeForce GT 1030 2GD4 LP OC
 
 Computadora Gama Media - AMD
-Procesador: 
+Procesador: AMD ryzen 5 5600X 4.6 GHz
 Placa Madre: A320M Asrock
-Memoria RAM: 
-Memoria Secundaria: 
-GPU:
+Memoria RAM: 18 GB Adata xpg SPECTRIX D60G
+Memoria Secundaria: Disco Solido SSD 120GB PNY CS900 SATA III 
+GPU:PowerColor AMD Radeon Rx 550 2GB
 
 Computadora Gama Media - Estudiante
-Procesador:
-Placa Madre: 
-Memoria RAM: 
-Memoria Secundaria:
-GPU:
+Procesador:AMD Ryzen 5 5600G 4.4 Ghz
+Placa Madre: Motherboard MSI A320M A Pro Max AM4
+Memoria RAM: Memoria Ram Kingston Fury Beast RGB 8GB 3200 Mhz DDR
+Memoria Secundaria: SSD 120GB SATA III 
+GPU: GeForce GTX 1650 Single Fan 4GB GDDR6
 
 Computadora Gama Alta - Intel 
 Procesador:Core I7-10700 
-Placa Madre: 
-Memoria RAM: 
-Memoria Secundaria: 
+Placa Madre: Motherboard Asus Prime Z590-A 1200
+Memoria RAM: Memoria Ram Kingston Fury Beast 16GB 3200 Mhz DDR4
+Memoria Secundaria: Disco Solido SSD 960GB Markvision SATA III BULK
+GPU: Asus Nvidia Geforce RTX 3070 Dual OC 8GB GDDR6
 
 Computadora Gama Alta - AMD
 Procesador Amd Ryzen 7 3800xt
-Placa Madre: 
-Memoria Ram:
-Memoria Secundaria: 
-GPU:
+Placa Madre: Motherboard Gigabyte X570S AORUS Elite AM4
+Memoria Ram:Memoria Ram Kingston Fury Renegade RGB 8GB 3200 Mhz DDR4
+Memoria Secundaria: Disco Solido SSD 512TB Patriot P400 M.2 PCIe X4 3.0
+GPU:Placa De Video MSI Nvidia GeForce RTX 3090 Ti Gaming X Trio 6GB GDDR6X
 
 Computadora Gama Alta - Estudiante
-Procesador:
-Placa Madre:
-Memoria RAM: 
-Memoria Secundaria: 
+Procesador:AMD Ryzen 9 5950X 4.9 Ghz AM4
+Placa Madre:Motherboard Gigabyte X570S AORUS Elite AM4
+Memoria RAM: Memoria Ram Kingston Fury Renegade RGB 16GB 3200 Mhz DDR4
+Memoria Secundaria: Disco Solido SSD 1TB Patriot P400 M.2 PCIe X4 3.0
+GPU:Placa De Video MSI Nvidia GeForce RTX 3090 Ti Gaming X Trio 24GB GDDR6X 
