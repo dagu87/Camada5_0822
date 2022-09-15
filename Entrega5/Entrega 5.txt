@@ -1,0 +1,24 @@
+Remote Port
+Zoom: 443.
+Discord: 443.
+Google Meet: 443.
+Whatsapp Web: 443.
+MySQL: 3306.
+SSL: 443.
+Git: 9418.
+HTTPS 443.
+HTTP: 80.
+VirutalBox: 1701.
+VPN: 1701.
+Outlook: 587.
+FTP: 21.	
+Word: 21.
+Skype: 443.
+Epica games: 443.
+FIFA 21: 1935.
+Spotify: 443.
+Team Viewer: 5938.
+Netflix: 443.
+Google Chrome: 9100.
+Instagram: 20.
+Gmail: 465.
