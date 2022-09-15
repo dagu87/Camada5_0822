@@ -1,0 +1,41 @@
+Puertos Remotos de diferentes aplicaciones:
+ZOOM --> Puerto Remoto 443			MySQL --> Puerto Remoto 3306
+
+DISCORD --> Puerto Remoto 443			SSL --> Puerto Remoto 2818
+
+GOOGLE MEET --> Puerto Remoto 443		HTTP --> Puerto Remoto 2616
+
+WHATSAPP WEB--> Puerto Remoto 443		FTP --> Puerto Remoto 21
+
+EPIG GAMES --> Puerto Remoto 80			Microsoft Teams --> Puerto Remoto 443
+
+FIFA 21 --> Puerto Remoto TCP: 80/443  // Puerto Remoto UDP: 3478/3479
+
+MICROSOFT WORD --> Puerto Remoto 443		ANIDESK --> Puerto Remoto 443
+
+SKYPE --> Puerto Remoto 443
+
+OUTLOOK --> Puerto Remoto 445
+
+VIRTUAL BOX--> Puerto Remoto 443
+
+VPN --> VPN (Si nuestra VPN utiliza el protocolo OpenVPN, el puerto OpenVPN que necesitaremos tener abierto es el 1194 UDP.
+	El protocolo L2TP utiliza el puerto 1701 TCP. El protocolo IPSec / IKEv2 utiliza los puertos 500 y 1500 UDP.
+	El protocolo Wireguard utiliza por defecto el puerto 51820 UDP)
+
+FILE TRANSFER --> Puerto Remoto 20/21		STEAM --> Para iniciar sesión en Steam y descargar contenido: HTTP (puerto TCP remoto 80)
+							 y HTTPS (443) Puertos UDP remotos 27015-27050.
+
+NETFLIX --> Puertos Remotos: TCP 1935.
+			TCP 80.
+			TCP 443.
+			UDP 53.
+			UDP 1024-2048	
+
+TEAM VIEWER --> Puerto Remoto 443
+
+SPOTIFY --> Pueto Remoto 443
+
+GIT --> Puerto Remoto 9418
+
+
