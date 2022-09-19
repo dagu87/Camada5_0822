@@ -1,0 +1,11 @@
+MySQL
+El puerto por defecto de MySQL es el 3306
+
+Git
+Escucha por un puerto dedicado (9418)
+
+Secure Sockets Layer (SSL)
+El puerto por defecto de SSL es el 2818
+
+Http
+El puerto por defecto de Http es el 2616
