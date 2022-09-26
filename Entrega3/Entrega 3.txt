@@ -1,0 +1,18 @@
+1.Por que un leguaje de programacion solo puede utilizarse en algunos sistemas
+operativos y en otros no?
+El problema esta en la interpretacion que le de el sistema opertaivo al
+compilar a leguaje ensamblador, debido al cambio en el sistema operativo o
+incluso debido al cambio en la arquitectura del procesador puede generarse una
+incompatibilidad entre los ejecutables
+
+2.Que tipo de maquina virtual es virtualBox?
+Es una maquina virtual de sistema, debido a que permite el uso de mas de un
+sistema operativo dentro de ella directamente en mi maquina fisica, es decir,
+sin la necesidad de hacer alguna particion
+
+3.Si tengo mas de una maquina virtual instalada, y una se rompe. Esto afecta
+a las demas? Por que?
+No, no afecta, debido a que son maquinas diferentes, independientes unas de
+las otras, y por lo tanto cada vez que se ejecuten, lo haran de forma separada,
+son plenamente maquinas virtuales
+
